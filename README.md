@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhik Chkaraborty</h1>
+<h1 align="center">Hi 👋, I'm Abhik Chakraborty</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
+- 🌱 I’m currently learning **Nextjs**
+
+- 💬 Ask me about **C++**
+
+- 📫 How to reach me **abhik17.cfc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

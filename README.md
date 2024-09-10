@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhik-chakraborty" alt="abhik-chakraborty" /></a> </p>
 
-- 🌱 I’m currently learning **Life**
+- 🌱 I’m currently learning **How to be better**
 
 - 💬 Ask me about **C++**
 

@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhik-chakraborty" alt="abhik-chakraborty" /></a> </p>
 
-- 🌱 I’m currently learning **CICD**
-
 - 👨‍💻 All of my projects are available at [https://abhik-17-portfolio.netlify.app](https://abhik-17-portfolio.netlify.app)
 
 - 💬 Ask me about **JavaScript, React and Node**
 
 - 📫 How to reach me **abhik17.cfc@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing](https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhik-chakraborty-145618238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhik-chakraborty-145618238" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhik17.cfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhik17.cfc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhik001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhik001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhik_chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhik_chakraborty" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhik17cfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhik17cfc" height="30" width="40" /></a>
 </p>
 

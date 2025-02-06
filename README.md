@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhik17.cfc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing](https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing]([https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing](https://drive.google.com/file/d/14kSfVnXa1a2JWKqp9xVv8ag39Pciizds/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

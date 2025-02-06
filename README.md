@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **abhik17.cfc@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing](https://drive.google.com/file/d/14kSfVnXa1a2JWKqp9xVv8ag39Pciizds/view?usp=sharing)]([https://drive.google.com/file/d/1HfhdHXfgR-nDNRg1-eBXA2nrXqAhEZUN/view?usp=sharing](https://drive.google.com/file/d/14kSfVnXa1a2JWKqp9xVv8ag39Pciizds/view?usp=sharing))
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhik-chakraborty-145618238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhik-chakraborty-145618238" height="30" width="40" /></a>
